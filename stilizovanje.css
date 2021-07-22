@@ -1,0 +1,30 @@
+.container{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.meni{
+    background-color: rgb(83, 80, 80);
+    height: 60px;
+    font-size: 20px;
+}
+.donji{
+    background-color: rgb(83, 80, 80);
+}
+.col-sm-6{
+    margin-bottom: auto;
+}
+.preko_slike{
+    position: absolute;
+    transform: translate(0%, -200%);
+    width: 90%;
+    background-color: rgba(169, 169, 169, 0.527);
+    text-align: center;
+}
+td { padding: 5px; }
